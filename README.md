@@ -32,6 +32,7 @@ An interactive Power BI dashboard developed to analyze the financial performance
 
 ## Dashboard
 
+![THDC Financial Analysis Dashboard](Screenshot%20%2864%29.png)
 The dashboard provides interactive visual analysis using KPIs, charts, tables and filters.
 
 ## Project Type
